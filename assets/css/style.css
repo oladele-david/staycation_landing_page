@@ -7,12 +7,12 @@ body {
 }
 
 a {
-  color: #009970;
+  color: #6d31ed;
   text-decoration: none;
 }
 
 a:hover {
-  color: #00cc95;
+  color: #6d31ed;
   text-decoration: none;
 }
 
@@ -1340,7 +1340,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #00c28e;
+  color: #6d31ed;
   font-size: 18px;
   line-height: 1;
 }
