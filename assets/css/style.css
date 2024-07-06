@@ -1213,26 +1213,6 @@ section {
   background: #f9f8f9;
 }
 
-#footer .footer-top .footer-contact {
-  margin-bottom: 30px;
-}
-
-#footer .footer-top .footer-contact h4 {
-  font-size: 22px;
-  margin: 0 0 30px 0;
-  padding: 2px 0 2px 0;
-  line-height: 1;
-  font-weight: 700;
-}
-
-#footer .footer-top .footer-contact p {
-  font-size: 14px;
-  line-height: 24px;
-  margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
-  color: #777777;
-}
-
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
@@ -1267,7 +1247,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #009970;
+  background: #f9623e;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
