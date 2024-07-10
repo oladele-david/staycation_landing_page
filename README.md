@@ -1,1 +1,3 @@
 ## Staycation landing page
+
+This project was inspired by the challenges we collectively faced during various staycations. Despite our excitement, we often encountered issues with finding and booking hotels that met our safety, reliability, and budget needs. These shared experiences sparked the idea to create a hotel-based platform that simplifies the booking process. Our goal is to ensure that users can easily find accommodations that are safe, reliable, and tailored to their budget requirements. By working together, we aim to enhance the staycation experience for everyone, making it stress-free and enjoyable.
